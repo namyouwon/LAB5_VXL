@@ -1,0 +1,3 @@
+../Core/Src/uart_fsm.c:33:6:uart_fsm_init	4	static
+../Core/Src/uart_fsm.c:44:6:command_parser_fsm	8	static
+../Core/Src/uart_fsm.c:101:6:uart_communication_fsm	4	static
